@@ -6,6 +6,8 @@
 * Website: https://github.com/ywteh/advml2020
 
 Announcements:
+* 13/3: After the morning lecture we will have 4 short presentations by INFOMM CDT students on their assessment projects. Everybody is welcome to stay in the lecture theatre to attend. 
+* 12/3: Guest Lecture by Silvia Chiappa cancelled due to Covid-19. Take care everyone!
 * 5/3: [Razvan Pascanu (DeepMind)](https://github.com/ywteh/advml2020/wiki/Guest-Lecture:-Razvan-Pascanu-(DeepMind)) will be giving a guest lecture on optimisation and data-efficiency in deep learning.
 * 5/3: [Problem sheet 3](https://github.com/ywteh/advml2020/blob/master/problemsheets/sheet3.pdf) available now, and due 5/3 noon.
 * 28/2: Lecture times moved to 2-4pm (back to back).
