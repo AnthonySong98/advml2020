@@ -6,6 +6,9 @@
 * Website: https://github.com/ywteh/advml2020
 
 Announcements:
+* 13/3: The afternoon lecture will be moved an hour earlier, to 1-2pm. Lectures will be livestreamed, at [morning lecture livestream](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b6b822b2-0941-465e-
+82a9-ab4a010f6924) and [afternoon lecture livestream](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a1af3f09-1f2c-4af1-a448-ab4a010fa73d). You will have to log in via weblearn first.
+
 * 13/3: Due to Covid-19, I have decided to discourage students from attend lectures this Friday.  I will still give it (I guess to an empty theatre) and it will be recorded. Recordings will be put up asap, and I am seeing if it is possible to stream as well. I suggest we move the third MSc class to Trinity term. Take care everyone!
 * 13/3: After the morning lecture we will have 4 short presentations by INFOMM CDT students on their assessment projects. 
 * 12/3: Guest Lecture by Silvia Chiappa cancelled due to Covid-19. Take care everyone!
